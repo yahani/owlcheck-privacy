@@ -1,4 +1,4 @@
-# Owlcheck privacy policy
+# OwlCheck privacy policy
 
 Published with GitHub Pages at https://yahani.github.io/owlcheck-privacy/
 
